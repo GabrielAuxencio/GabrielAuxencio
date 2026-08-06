@@ -1,16 +1,51 @@
-### Hi there 👋
+# Gabriel Auxêncio
 
-<!--
-**GabrielAuxencio/GabrielAuxencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering Student at SENAI CIMATEC  
+Researcher in Robotics and Autonomous Systems.
 
-Here are some ideas to get you started:
+I'm passionate about robotics, embedded systems, control engineering and intelligent autonomous systems. My work combines software and electronics to develop real world solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research Interests
+
+- Robotics
+- Autonomous Systems
+- ROS2
+- Embedded Systems
+- Control Engineering
+- Artificial Intelligence
+
+---
+
+## Technologies
+
+### Languages
+
+- Python
+- C
+- C++
+- MATLAB
+
+### Robotics
+
+- ROS2
+- Gazebo
+- OpenCV
+
+### Engineering
+
+- Arduino
+- ESP32
+- MATLAB
+- Simulink
+- SolidWorks
+- LTspice
+
+---
+
+## Contact
+
+LinkedIn
+
+Email
