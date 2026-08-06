@@ -43,9 +43,3 @@ I'm passionate about robotics, embedded systems, control engineering and intelli
 - LTspice
 
 ---
-
-## Contact
-
-LinkedIn
-
-Email
