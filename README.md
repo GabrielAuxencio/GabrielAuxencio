@@ -1,4 +1,4 @@
-# Gabriel Auxêncio
+# Gabriel Auxêncio Silva Nunes
 
 Electrical Engineering Student at SENAI CIMATEC  
 Researcher in Robotics and Autonomous Systems.
@@ -7,14 +7,12 @@ I'm passionate about robotics, embedded systems, control engineering and intelli
 
 ---
 
-## Research Interests
+## Areas of Interest
 
-- Robotics
-- Autonomous Systems
-- ROS2
+- Robotics and Autonomous Systems
 - Embedded Systems
 - Control Engineering
-- Artificial Intelligence
+- Systems Engineering
 
 ---
 
@@ -25,7 +23,6 @@ I'm passionate about robotics, embedded systems, control engineering and intelli
 - Python
 - C
 - C++
-- MATLAB
 
 ### Robotics
 
